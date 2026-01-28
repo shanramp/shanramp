@@ -1,4 +1,4 @@
-# Hi 👋, **I'm Shan Ram Porle (Sr. Full-Stack Developer)** 🇮🇳 
+# Hi 👋, **I'm Shan Ram Porle (Sr. Full-Stack Developer)**
 <br />
 <br />
 
@@ -30,6 +30,35 @@ Here's a glimpse of the skills I bring to the table:
 - **DevOps & Cloud Computing**: AWS, GCP, Azure using Serverless, SAM, CDK
 - **Mobile App Development**: React Native, Ionic, Swift, Java, Objective-C
 
+## 📌 Featured Projects
+
+- [Doctor & Patient Management RN Mobile APP](https://vidatalk.com/)  
+  _Curated React native Mobile application for patients._
+
+- [AWS integrated Video Confernce System](https://panthermediasystem.com/)  
+  _Implemented and Customized Panther Media System according to the business partner requirement such as Gagl._
+
+- [Design Organization AWS On-Premise Architecture](https://www.trendzact.com)  
+  _Ddesigned organization On-Premise Network and Optimized Pricing Solution for all AWS Services with TSMC and AWS Tech Support._
+
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<a href="https://github.com/Muawiya-contact?achievement=pull-shark&tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark">
+</a>
+<a href="https://github.com/Muawiya-contact?achievement=yolo&tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" alt="YOLO">
+</a>
+<a href="https://github.githubassets.com/assets/quickdraw-default--light-medium-5450fadcbe37.png">
+  <img src="https://github.githubassets.com/assets/quickdraw-default--light-medium-5450fadcbe37.png" width="100" alt="Quickdraw">
+</a>
+
+
+<br>
+</br>
 <div align="center">
  <img src="https://komarev.com/ghpvc/?username=skyv26&style=for-the-badge&color=orange" width="200" />
 </div>
